@@ -1,1 +1,2 @@
-echo "Bonjour";
+#!/bin/bash
+echo "Bonjour"
